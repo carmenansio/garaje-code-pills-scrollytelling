@@ -1,0 +1,27 @@
+{
+  "name": "gsap-bonus-plugins-starter",
+  "version": "1.0.0",
+  "description": "Starter template for GSAP with bonus plugins.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "gsap-trial": "3.10.2",
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": [
+    "drawsvg",
+    "morphsvg",
+    "gsap3",
+    "scrolltrigger",
+    "motionpathplugin"
+  ]
+}
